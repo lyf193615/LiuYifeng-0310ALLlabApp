@@ -1,0 +1,13 @@
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\bin\Debug\LabAss3.exe.config
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\bin\Debug\LabAss3.exe
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\bin\Debug\LabAss3.pdb
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.exe
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.pdb
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.frmCustomerDataEntry.resources
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
+C:\Users\lyf\source\repos\LiuYifeng-0310ALLlabApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources
